@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VokabelKarte
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Vokabelkarte.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=pDeu\ pFremd
+comment1.target=VokabelKarte(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Vokabelkarte\n
+comment2.params=
+comment2.target=void\ druckeKarte()
+numComments=3
