@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
+PROJEKTBEZEICHNUNG: Vokabeltrainer 2022
+PROJEKTZWECK: EF Einführung Java mit BlueJ
+VERSION oder DATUM:2022
+WIE IST DAS PROJEKT ZU STARTEN:s. Tutorial
+AUTOR(EN):guet
 BENUTZERHINWEISE:
